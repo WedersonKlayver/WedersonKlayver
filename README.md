@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Wederson Klayver 👋
 
 - 🌱 Cursando análise e desenvolvimento de sitemas, no Instituto Federal da Bahia
-- 🌱 Estudando Phyton
+- 🌱 Estudando Java
 <div>
   <a href="https://github.com/WedersonKlayver">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=WedersonKlayver&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

@@ -2,10 +2,12 @@
 
 - 🌱 Cursando análise e desenvolvimento de sitemas, no Instituto Federal da Bahia
 - 🌱 Estudando Java
-<div>
+
+</div>
+<div align="center">
   <a href="https://github.com/WedersonKlayver">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=WedersonKlayver&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WedersonKlayver&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WedersonKlayver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WedersonKlayver&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##

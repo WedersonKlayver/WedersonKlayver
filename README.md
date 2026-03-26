@@ -1,9 +1,32 @@
-## Olá, Eu sou o Wederson Klayver 👋
+<h1 align="center">Olá 👋, eu sou Wederson Klayver</h1>
 
-- 🌱 Cursando análise e desenvolvimento de sitemas, no Instituto Federal da Bahia
-- 🌱 Estudando Java
+<p align="center">
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+📍 Brasil <br>
+🚀 Focado em desenvolvimento Java
+</p>
 
-</div>
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFBA  
+- 📚 Atualmente estudando **Java e lógica de programação**  
+- 💡 Interesse em desenvolvimento backend  
+- 🎯 Objetivo: me tornar um desenvolvedor profissional  
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,c,mysql" />
+  </a>
+</p>
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
   <a href="https://github.com/WedersonKlayver">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WedersonKlayver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,18 +34,27 @@
   </a>
 </div>
 
-  ##
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,c,mysql" />
+---
+
+## 📂 Projetos
+- 🧮 Calculadora de Delta em Java  
+- 📘 Exercícios de lógica de programação  
+
+---
+
+## 📫 Contato
+
+<div> 
+  <a href="mailto:wederson762@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
-
-  ##
-
-<div>
-  <a href="https://instagram.com/wedersonklayver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wedersonklayver" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kruiveralencar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  <a href="https://www.linkedin.com/in/wedersonklayver">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
+
+---
+
+## ⚡ Curiosidade
+
+> Sempre buscando evoluir um pouco todos os dias 🚀
